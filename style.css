@@ -15,11 +15,11 @@ h1 {
   display: flex;
   margin: 100px;
 }
-#first-img {
+.first-img {
   width: 70%;
   margin-left: 100px;
 }
-#seagreen {
+.seagreen {
   color: seagreen;
 }
 a {
@@ -68,4 +68,15 @@ h2 {
 }
 .illustrator {
   width: 200px;
+}
+#last{
+    margin-left: 100px;
+}
+footer{
+    text-align: center;
+}
+#footer{
+    background-color: black;
+    color: white;
+    padding: 50px 400px;
 }
