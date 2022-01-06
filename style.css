@@ -11,7 +11,7 @@ h1 {
   font-size: 60px;
   font-family: "Playfair Display", serif;
 }
-.first-banner {
+.banner {
   display: flex;
   margin: 100px;
 }
@@ -47,25 +47,25 @@ a {
   width: 0.5rem;
   border-radius: 5px;
 }
-h2{
-    font-size:50px;
-    font-family: "Playfair Display", serif;
-    text-align: center;
+h2 {
+  font-size: 50px;
+  font-family: "Playfair Display", serif;
+  text-align: center;
 }
-.second-banner{
-    display: flex;
-    margin: 100px;
+.box {
+    margin: 20px;
+  padding: 30px;
+  border-radius: 20px;
 }
-.box{
-    margin-left: 30px;
-    margin-right: 30px;
+#first-box {
+  background-color: rgb(196, 245, 196);
 }
-#first-box{
-    background-color: rgb(196, 245, 196);
+#second-box {
+  background-color: rgb(247, 208, 215);
 }
-#second-box{
-    background-color: rgb(247, 208, 215);
+#third-box {
+  background-color: rgb(247, 247, 174);
 }
-#third-box{
-    background-color: rgb(247, 247, 174);
+.illustrator {
+  width: 200px;
 }
