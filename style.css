@@ -1,0 +1,19 @@
+body{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size:60px;
+    font-family: 'Playfair Display', serif;
+}
+.first-banner{
+    display: flex;
+   margin: 100px;
+}
+#first-img{
+    width: 70%;
+    margin-left: 100px;
+}
+#seagreen{
+    color: seagreen;
+}
